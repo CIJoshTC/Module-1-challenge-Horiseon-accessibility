@@ -10,7 +10,4 @@ The goal of this project create semantic html elements and also consolidate the 
 * Git
 
 ## Deployment
-[Deployment link](enter link here)
-
-## Screenshot
-google how to add a screenshot
+[Deployment link](file:///Users/joshuathomasconnell/Documents/Bootcamp-class/Week1/Module-1-challenge-Horiseon-accessibility/index.html)
