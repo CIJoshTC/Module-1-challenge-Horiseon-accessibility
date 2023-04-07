@@ -1,11 +1,16 @@
-# Module-1-challenge-Horiseon-accessibility
-First challenge for MIA bootcamp
-## Refactoring and consolidating a starter code to have semantic html syntax
+# Horiseon-accessibility
 
-This challenge tests the students ability to create semantic html elements and also consolidate the css in order to have it be more accesible to users. This accesibiility also makes the webpage easier to find in a search by implementing:
 
-* Semantic html elements
-* Css consolidation
-* fixed links
-* Unique Titles
+## Description
+The goal of this project create semantic html elements and also consolidate the css in order to have it be more accesible to users. This accesibiility also makes the webpage easier to find in a web search. I implemented fixed links, unique titles, css conslidation, and semantic html text.
 
+## Technologies
+* Html
+* Css 
+* Git
+
+## Deployment
+[Deployment link](enter link here)
+
+## Screenshot
+google how to add a screenshot
